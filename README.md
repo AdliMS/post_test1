@@ -10,4 +10,4 @@ quicksort
 6. variabel left akan terus bertambah selama nilai lebih kecil dari pivot.
 7. jika left bertemu dengan nilai yang lebih besar dari pivot, maka left akan berhenti.
 8. selanjutnya variabel right akan berjalan untuk mencari nilai yang lebih kecil dari pivot. jika sudah ketemu, maka left tadi yang memegang nilai lebih besar
-dari pivot akan ditukan nilainya dengan right yang memegang nilai lebih kecil dari pivot.
+dari pivot akan ditukar nilainya dengan right yang memegang nilai lebih kecil dari pivot.
